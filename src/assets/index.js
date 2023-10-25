@@ -63,4 +63,6 @@ export {
   jobit,
   tripguide,
   eccomerce,
+  coffe,
+  book,
 };
