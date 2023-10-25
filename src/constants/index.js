@@ -24,7 +24,7 @@ import {
   tripguide,
   threejs,
   book,
-  caffe,
+  coffe,
   eccomerce,
 } from "../assets";
 
