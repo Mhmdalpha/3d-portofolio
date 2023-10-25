@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  book,
+  caffe,
+  eccomerce,
 } from "../assets";
 
 export const navLinks = [
