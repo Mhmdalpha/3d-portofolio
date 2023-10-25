@@ -260,6 +260,69 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/",
   },
+  {
+    name: "book Store",
+    description:
+      "LightBook Store is your gateway to a world of knowledge and inspiration. With an extensive collection of books across diverse genres and a tranquil ambiance that invites exploration, we're the haven for book enthusiasts seeking enlightenment and literary escape.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: book,
+    source_code_link: "https://github.com/Mhmdalpha/Web-Responsive-LightBookstore",
+  },
+  {
+    name: "coffe caffe",
+    description:
+      "Coffe Café is your destination for premium coffee and a cozy atmosphere. With our carefully selected beans and skilled baristas, we serve up the perfect cup of joe, creating a welcoming space for coffee lovers to savor every sip.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: coffe,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Ecommercelight",
+    description:
+      "EccomerceLight is your trusted partner in the world of online retail, providing cutting-edge e-commerce solutions. We offer a comprehensive suite of tools and expertise to help businesses thrive in the digital marketplace, simplifying the complexities of online selling and illuminating the path to success.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: eccomerce,
+    source_code_link: "https://github.com/",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
