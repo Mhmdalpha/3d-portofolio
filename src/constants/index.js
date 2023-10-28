@@ -26,6 +26,7 @@ import {
   book,
   coffe,
   eccomerce,
+  summerizeai,
 } from "../assets";
 
 export const navLinks = [
