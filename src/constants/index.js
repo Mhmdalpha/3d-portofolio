@@ -27,6 +27,7 @@ import {
   coffe,
   eccomerce,
   summerizeai,
+  realestate,
 } from "../assets";
 
 export const navLinks = [
@@ -223,9 +224,9 @@ const projects = [
     source_code_Link: "https://github.com/Mhmdalpha/car-rent",
   },
   {
-    name: "Job IT",
+    name: "MERN Realestate",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "The best real estate app combines user-friendly navigation with a comprehensive database of listings, making it effortless to find your dream home or investment property.",
     tags: [
       {
         name: "react",
@@ -240,8 +241,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: realestate,
+    source_code_Link: "https://github.com/Mhmdalpha/Mern-realestate/tree/'main'",
   },
   {
     name: "Summerize ai",
