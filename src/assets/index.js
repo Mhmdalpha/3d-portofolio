@@ -31,7 +31,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import book from "./book.png";
 import coffe from "./coffe.png";
-import eccomerce from "./Ecommerce.png"
+import eccomerce from "./Ecommerce.png";
+import summerizeai from "./summerai.png";
 
 export {
   logo,
@@ -65,4 +66,5 @@ export {
   eccomerce,
   coffe,
   book,
+  summerizeai,
 };
