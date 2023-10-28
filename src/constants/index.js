@@ -243,9 +243,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Summerize ai",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    "AI-driven tools can effectively summarize news articles by extracting key information and condensing it into shorter, more digestible versions, offering a valuable solution for readers seeking quick insights into current events.",
     tags: [
       {
         name: "nextjs",
@@ -260,8 +260,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: summerizeai,
+    source_code_Link: "https://github.com/Mhmdalpha/ai-summarize",
   },
   {
     name: "book Store",
