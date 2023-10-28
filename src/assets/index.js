@@ -33,6 +33,7 @@ import book from "./book.png";
 import coffe from "./coffe.png";
 import eccomerce from "./Ecommerce.png";
 import summerizeai from "./summerai.png";
+import realestate from "./realestate.png"
 
 export {
   logo,
@@ -67,4 +68,5 @@ export {
   coffe,
   book,
   summerizeai,
+  realestate,
 };
