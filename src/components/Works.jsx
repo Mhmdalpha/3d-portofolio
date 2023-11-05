@@ -60,6 +60,15 @@ const ProjectCard = ({ index, name, description, tags,
             </p>
           ))}
         </div>
+          </div>
+          <div className="m-auto flex justify-center items-center text-[18px] bg-[200px]">
+          <a  onClick={() => window.open(Link_to_project,"_blank")}
+           >
+          <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
+          Demo
+          </button>
+          </a>
+          </div>
         </Tilt>
        </motion.div>
     )
