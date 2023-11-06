@@ -21,12 +21,13 @@ const ProjectCard = ({ index, name, description, tags,
         className="bg-tertiary p-5 rounded-2xl 
         sm:w-[360px] w-full"
         >
-          <div className="relative w-full h-[230px]">
+          <div className="relative w-full h-[250px]">
           <img 
             src={image}
             alt={name}
             className="w-full h-full object-cover rounded-2xl"
           />
+          
 
           <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
 
@@ -43,6 +44,7 @@ const ProjectCard = ({ index, name, description, tags,
               />
             </div>
           </div>
+          
          </div>
 
          <div className='mt-5'>
@@ -50,7 +52,7 @@ const ProjectCard = ({ index, name, description, tags,
           <p className='mt-2 text-secondary text-[14px]'>{description}</p>
         </div>
 
-        <div className='mt-4 flex flex-wrap gap-2'>
+        <div className='mt-4 flex flex-wrap gap-2 mb-5'>
           {tags.map((tag) => (
             <p
               key={`${name}-${tag.name}`}
@@ -60,7 +62,6 @@ const ProjectCard = ({ index, name, description, tags,
             </p>
           ))}
         </div>
-          </div>
           <div className="m-auto flex justify-center items-center text-[18px] bg-[200px]">
           <a  onClick={() => window.open(Link_to_project,"_blank")}
            >
@@ -99,7 +100,7 @@ const Works = () => {
          </motion.p>
       </div>
 
-      <div className="mt-20 flex flex-wrap gap-2">
+      <div className="mt-20 flex flex-wrap">
         {projects.map((project,index)=> (
           <ProjectCard 
            key={`project-${index}`}
