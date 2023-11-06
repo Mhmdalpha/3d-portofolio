@@ -234,6 +234,7 @@ const projects = [
     ],
     image: carrent,
     source_code_Link: "https://github.com/Mhmdalpha/car-rent",
+    Link_to_project: "",
   },
   {
     name: "MERN Realestate",
@@ -276,6 +277,7 @@ const projects = [
     ],
     image: summerizeai,
     source_code_Link: "https://github.com/Mhmdalpha/ai-summarize",
+    Link_to_project: "https://ai-summarize-delta.vercel.app/",
   },
   {
     name: "book Store",
@@ -297,6 +299,7 @@ const projects = [
     ],
     image: book,
     source_code_Link: "https://github.com/Mhmdalpha/Web-Responsive-LightBookstore",
+    Link_to_project: "https://mhmdalpha.github.io/Web-Responsive-LightBookstore/",
   },
   {
     name: "coffe caffe",
@@ -317,7 +320,8 @@ const projects = [
       },
     ],
     image: coffe,
-    source_code_Link: "https://github.com/Mhmdalpha/web-coffee-responsive-late"
+    source_code_Link: "https://github.com/Mhmdalpha/web-coffee-responsive-late",
+    Link_to_project: "https://mhmdalpha.github.io/web-coffee-responsive-late/",
   },
   {
     name: "Ecommercelight",
@@ -339,6 +343,7 @@ const projects = [
     ],
     image: eccomerce,
     source_code_Link: "https://github.com/Mhmdalpha/EcommerceLight",
+    Link_to_project: "https://mhmdalpha.github.io/EcommerceLight/",
   },
 ];
 
