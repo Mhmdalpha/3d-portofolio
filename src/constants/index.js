@@ -28,6 +28,7 @@ import {
   eccomerce,
   summerizeai,
   realestate,
+  restaurant,
 } from "../assets";
 
 export const navLinks = [
@@ -237,9 +238,9 @@ const projects = [
     Link_to_project: "https://car-rent-blush.vercel.app/",
   },
   {
-    name: "MERN Realestate",
+    name: "Restaurant grill",
     description:
-      "The best real estate app combines user-friendly navigation with a comprehensive database of listings, making it effortless to find your dream home or investment property.",
+      "Resto Beef, where the art of grilling transforms prime cuts of meat into succulent culinary masterpieces that satisfy every carnivore's craving.",
     tags: [
       {
         name: "react",
@@ -255,7 +256,8 @@ const projects = [
       },
     ],
     image: realestate,
-    source_code_Link: "https://github.com/Mhmdalpha/Mern-realestate/tree/'main'",
+    source_code_Link: "https://github.com/Mhmdalpha/grili-restaurant",
+    Link_to_project: "https://mhmdalpha.github.io/grili-restaurant/",
   },
   {
     name: "Summerize ai",
