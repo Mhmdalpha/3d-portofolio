@@ -255,7 +255,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: realestate,
+    image: restaurant,
     source_code_Link: "https://github.com/Mhmdalpha/grili-restaurant",
     Link_to_project: "https://mhmdalpha.github.io/grili-restaurant/",
   },
