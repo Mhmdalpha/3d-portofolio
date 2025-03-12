@@ -34,6 +34,7 @@ import coffe from "./coffe.png";
 import eccomerce from "./Ecommerce.png";
 import summerizeai from "./summerai.png";
 import realestate from "./realestate.png";
+import gdrive from "./gdrive.png";
 import restaurant from "./restaurant.png";
 
 export {
@@ -69,6 +70,6 @@ export {
   coffe,
   book,
   summerizeai,
-  realestate,
+  gdrive,
   restaurant,
 };

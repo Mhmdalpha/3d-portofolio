@@ -46,7 +46,7 @@ const Navbar = () => {
           <img src={"../porto.png"} alt='logo' className='w-12 h-12 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Alpha &nbsp;
-            <span className='sm:block hidden'> | Developer Modern</span>
+            <span className='sm:block hidden'> | Expert Developer</span>
           </p>
         </Link>
 

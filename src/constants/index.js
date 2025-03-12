@@ -27,8 +27,8 @@ import {
   coffe,
   eccomerce,
   summerizeai,
-  realestate,
   restaurant,
+  gdrive,
 } from "../assets";
 
 export const navLinks = [
@@ -216,9 +216,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Stroeit file",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Storage File Management is a web application for securely uploading, organizing, and managing files with an intuitive and user-friendly interface.",
     tags: [
       {
         name: "react",
@@ -229,13 +229,33 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Nextjs",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "cyan-text-gradient",
+      },
+      {
+        name: "appwrite",
         color: "pink-text-gradient",
       },
+      {
+        name: "drizzle",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "neonDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Clerk",
+        color: "red-text-gradient",
+      },
     ],
-    image: carrent,
-    source_code_Link: "https://github.com/Mhmdalpha/car-rent",
-    Link_to_project: "https://car-rent-blush.vercel.app/",
+    image: gdrive,
+    source_code_Link: "https://github.com/Mhmdalpha/storage-file-management",
+    Link_to_project: "https://storage-file-management.vercel.app/sign-in",
   },
   {
     name: "Restaurant grill",
@@ -249,10 +269,6 @@ const projects = [
       {
         name: "restapi",
         color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
       },
     ],
     image: restaurant,
